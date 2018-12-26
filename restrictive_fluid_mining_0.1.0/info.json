@@ -1,0 +1,11 @@
+{
+  "name": "restrictive_fluid_mining",
+  "version": "0.1.0",
+  "factorio_version": "0.16",
+  "title": "Restrictive fluid container mining",
+  "author": "MewMew",
+  "contact": "",
+  "homepage": "",
+  "description": "Storage containers and pipes can not be mined if they contain fluid or gasses.",
+  "dependencies": ["base >= 0.16.0"]
+}
